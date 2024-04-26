@@ -4,5 +4,5 @@ The Lyrion ecosystem is built around the Lyrion Music Server (LMS). For more inf
 
 * Website: 🌐 [lyrion.org](https://lyrion.org)
 * Community forum: 💬 [forums.slimdevices.com](https://forums.slimdevices.com)
-* Lyrion Music Server: :octocat: [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver) repository
+* Lyrion Music Server: :octocat: [LMS-Community/slimserver](https://github.com/LMS-Community/slimserver)
 
